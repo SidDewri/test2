@@ -4,16 +4,6 @@
     <meta charset="utf-8">
     <title>Precious Gems</title>
   </head>
-  <style>
-
-  body {
-    background-color: #BCE6EB;
-  }
-  hr {
-    background-color:white ;
-    border-style: none;
-  }
-  </style>
 <body>
 <table>
 <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.TWYcZbHpAoKQ-8EceBE4JgHaHa%26pid%3DApi&f=1" width="200" height="121"alt="Gemstones"></td>
@@ -37,7 +27,7 @@ In 1869, an even larger 83.50-carat diamond was found on the slopes of Colesberg
 </table>
 <hr size="3" noshade>
  <table>
-<td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.dQVoJA700ndYbaIQjzUSjQHaHa%26pid%3DApi&f=1" width="150" alt=""> </td></img>
+<td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.dQVoJA700ndYbaIQjzUSjQHaHa%26pid%3DApi&f=1" width="250" alt=""> </td></img>
 <td><h3>Ruby</h3>
   <p>Rubies are known for their blood red color and beauty.The quality of a ruby is
  determined by its color, cut, and clarity, which, along with carat weight, affect
@@ -52,7 +42,7 @@ The world's most valuable ruby to be sold at auction is the Sunrise Ruby.</p>
 </table>
 <hr size="3" noshade>
 <table>
-<td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cWl2EF0Zab5WevVwzPppVAHaG2%26pid%3DApi&f=1" width="200" alt="">
+<td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cWl2EF0Zab5WevVwzPppVAHaG2%26pid%3DApi&f=1" width="250" alt="">
 <td><h3>Sapphire</h3>
   Sapphires come in many colors such as- Blue, Indigo and Pastel.Every sapphire
   mine produces a wide range of quality, and origin is not a guarantee of quality.
