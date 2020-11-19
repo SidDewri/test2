@@ -2,7 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Precious Gems</title>
   </head>
 <body>
 <table>
@@ -18,7 +17,7 @@ my information, I have provided links to Wikipedia. So, let's begin.</p> </td>
 <br>
 <hr size="3" noshade>
 <table>
-<td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7Fm5jvVJCvI94kmFlI05NAHaHa%26pid%3DApi&f=1" width="200" alt=""></td>
+<td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7Fm5jvVJCvI94kmFlI05NAHaHa%26pid%3DApi&f=1" width="500" alt=""></td>
 <td><h3>Diamonds.</h3>
 <p>Diamonds are one of the rarest and hardest gemstones in the world. They are used in jewellery
 because of their their rarity and brilliance.The modern era of diamond mining began in the 1860s in Kimberley, South Africa with the opening of the first large-scale diamond mine.The first diamond there was found in 1866 on the banks of the Orange River and became known as the Eureka Diamond.
@@ -27,7 +26,7 @@ In 1869, an even larger 83.50-carat diamond was found on the slopes of Colesberg
 </table>
 <hr size="3" noshade>
  <table>
-<td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.dQVoJA700ndYbaIQjzUSjQHaHa%26pid%3DApi&f=1" width="250" alt=""> </td></img>
+<td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.dQVoJA700ndYbaIQjzUSjQHaHa%26pid%3DApi&f=1" width="500" alt=""> </td></img>
 <td><h3>Ruby</h3>
   <p>Rubies are known for their blood red color and beauty.The quality of a ruby is
  determined by its color, cut, and clarity, which, along with carat weight, affect
@@ -42,7 +41,7 @@ The world's most valuable ruby to be sold at auction is the Sunrise Ruby.</p>
 </table>
 <hr size="3" noshade>
 <table>
-<td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cWl2EF0Zab5WevVwzPppVAHaG2%26pid%3DApi&f=1" width="250" alt="">
+<td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cWl2EF0Zab5WevVwzPppVAHaG2%26pid%3DApi&f=1" width="500" alt="">
 <td><h3>Sapphire</h3>
   Sapphires come in many colors such as- Blue, Indigo and Pastel.Every sapphire
   mine produces a wide range of quality, and origin is not a guarantee of quality.
